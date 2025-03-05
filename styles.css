@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: aqua;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+    font-family: verdana;
+    font-size: 10px;
+  }
